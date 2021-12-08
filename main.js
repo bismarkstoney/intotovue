@@ -8,7 +8,7 @@ const app = Vue.createApp({
 			url: 'https://github.com/bismarkstoney',
 			inventory: 10,
 			onSale: true,
-			details: ['50% cotten', '30% wool', '20% polyester'],
+			details: ['50% cotten', '30% wool', '20% polyesters '],
 		};
 	},
 });
